@@ -80,7 +80,9 @@ export default function App() {
       </ul>
       <div className="finalBtn">
         <button>
-          <a href="/">Source Code</a>
+          <a href="https://economictimes.indiatimes.com/wealth/invest/top-10-investment-options/articleshow/64066079.cms?from=mdr">
+            More Investment Options
+          </a>
         </button>
       </div>
     </div>
