@@ -73,8 +73,8 @@ export default function App() {
             <div>
               Name: {details.name}
               {" 🎁 "}
-              Value: {details.value}
             </div>
+            <div>Value: {details.value}</div>
           </li>
         ))}
       </ul>
