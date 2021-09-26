@@ -6,6 +6,11 @@
 .App {
   text-align: center;
 }
+img {
+  height: 40%;
+  width: 45%;
+  border-radius: 5rem;
+}
 body {
   background-image: url("save.jpg");
   background-repeat: no-repeat;
